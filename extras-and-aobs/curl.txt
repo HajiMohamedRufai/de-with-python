@@ -1,0 +1,9 @@
+Curl is mainly used to download files given direct link
+Syntax:
+curl -o <custom-name> <url>
+where o is lowercase o
+
+curl -O <url>
+In here O is capital therefore the output will be the filename
+
+In all o represents output, which is the most common option in curl
